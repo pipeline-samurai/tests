@@ -318,3 +318,22 @@ void GotoXY(int x, int y)
     SetConsoleCursorPosition(a,b);
  }
 
+void Boarder()
+{
+int i;
+   system("cls");
+   for(i=10;i<140;i++)
+   {
+       GotoXY(i,10);
+           cout<<"=";
+       GotoXY(i,58);
+           cout<<"=";
+   }
+   for(i=10;i<58;i++)
+   {
+       GotoXY(10,i);
+           cout<<"|";
+       GotoXY(140,i);
+       		cout<<"|";
+   }
+}
