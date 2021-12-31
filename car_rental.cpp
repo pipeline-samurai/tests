@@ -223,3 +223,69 @@ void password()
 	
 }
 
+void gotoxy(int x, int y)
+{
+
+ COORD coord;
+
+ coord.X = x;
+
+ coord.Y = y;
+
+ SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
+
+}
+
+void load()
+{
+	Boarder();
+	
+	int timer =5+ rand()%20;
+    int row,col,r,c,q;
+    gotoxy(65,34);
+    cout<<"BOOTING UP...";
+    gotoxy(60,36);
+    for(r=1;r<=timer;r++)
+	{
+    for(q=0;q<=100000000;q++);//to display the character slowly
+    printf("%c",177);
+	}
+    Sleep(100);
+    system("cls");
+}
+
+void load_CHECK()
+{
+	Boarder();
+	int timer = rand()%5+1;
+    int row,col,r,c,q;
+    gotoxy(65,34);
+    printf("LOG IN...");
+    gotoxy(60,36);
+    for(r=1;r<=timer;r++)
+	{
+    for(q=0;q<=100000000;q++);//to display the character slowly
+    printf("%c",177);
+	}
+    Sleep(100);
+    system("cls");
+}
+
+void load_UPDATE()
+{
+	Boarder();
+	
+    int row,col,r,c,q;
+    int timer = rand()%25+1;
+    gotoxy(65,34);
+    printf("UPDATING DATABASE...");
+    gotoxy(60,36);
+    for(r=1;r<=timer;r++)
+	{
+    for(q=0;q<=100000000;q++);//to display the character slowly
+    printf("%c",177);
+	}
+    Sleep(100);
+    system("cls");
+}
+
