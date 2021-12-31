@@ -337,3 +337,59 @@ int i;
        		cout<<"|";
    }
 }
+
+void art()
+{
+
+	Boarder();
+	gotoxy(0, 20);
+	
+	ifstream ifs ("art.txt");    
+	string Lines = "";
+    
+    if (ifs)
+    {
+		while (ifs.good ())
+		{
+	    	string TempLine;
+	    	getline (ifs , TempLine);
+	    	TempLine += "\n";
+	    
+	    	Lines += TempLine;
+		}
+		
+	cout << Lines;
+	date();
+	}
+    
+    ifs.close ();
+}
+
+void welcome()
+{
+
+	Boarder();
+	gotoxy(0, 30);
+	ifstream ifs ("welcome.txt");    
+	string Lines = "";
+    
+    if (ifs)
+    {
+		while (ifs.good ())
+		{
+	    	string TempLine;
+	    	getline (ifs , TempLine);
+	    	TempLine += "\n";
+	    
+	    	Lines += TempLine;
+		}
+		
+	cout << Lines;
+
+	
+	}
+	cout<<"\n\t  |\t\t\t\t\t\t\t";
+	ifs.close ();
+	Sleep(1000);
+	
+}
