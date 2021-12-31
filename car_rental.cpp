@@ -393,3 +393,47 @@ void welcome()
 	Sleep(1000);
 	
 }
+
+void exitArt()
+{
+	Boarder();
+	gotoxy(0, 30);
+	ifstream ifs ("exit art.txt");    
+	string Lines = " ";
+    
+    if (ifs)
+    {
+		while (ifs.good ())
+		{
+	    	string TempLine;
+	    	getline (ifs , TempLine);
+	    	TempLine += "\n";
+	    
+	    	Lines += TempLine;
+		}
+		
+	cout << Lines;
+	
+	}
+    cout<<"\n\t  |\t\t\t\t\t\t\t";
+    ifs.close ();
+    Sleep(3000);
+    exit(0);
+}
+
+int rate(int hour, int j)
+{
+	int hour_24, hour_12, hour_1;
+	int total, total_24, total_12, total_1;
+	
+	hour_24=hour/24;
+	hour_12=(hour - hour_24*24)/12;
+	hour_1=(hour - hour_24*24 - hour_12*12)/1;
+	
+	total_24 = hour_24 * rent[j].rate_per_day;
+	total_12 = hour_12 * rent[j].rate_per_half;
+	total_1 = hour_1 * rent[j].rate_per_hour;
+	
+	total = total_24 + total_12 + total_1;
+	return total;
+}
