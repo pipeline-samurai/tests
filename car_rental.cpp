@@ -78,3 +78,17 @@ struct pass
 	char passWord[20];
 	
 };
+
+pass userPass[1000];
+	car rent[1000];
+	customer cust[1000];
+	car avail[1000];
+	
+void fullscreen()
+{
+	keybd_event(VK_MENU,0x38,0,0);
+	keybd_event(VK_RETURN,0x1c,0,0);
+	keybd_event(VK_RETURN,0x1c,KEYEVENTF_KEYUP,0);
+	keybd_event(VK_MENU,0x38,KEYEVENTF_KEYUP,0);
+}
+
