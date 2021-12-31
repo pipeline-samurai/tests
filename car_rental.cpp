@@ -289,3 +289,21 @@ void load_UPDATE()
     system("cls");
 }
 
+void load_EXIT()
+{
+	Boarder();
+	
+    int row,col,r,c,q;
+    int timer = rand()%5+1;
+    gotoxy(65,34);
+    printf("LOGGING OFF...");
+    gotoxy(60,36);
+    for(r=1;r<=timer;r++)
+	{
+    for(q=0;q<=100000000;q++);//to display the character slowly
+    printf("%c",177);
+	}
+    Sleep(100);
+    system("cls");
+}
+
