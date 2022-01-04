@@ -111,3 +111,28 @@ public:
         cout << " ||                                                                       ||\n";
         cout << " ===========================================================================\n";
     }
+
+void DisplayInstructions()
+    {
+        cout << " ===========================================================================\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                           *Instructions*                              ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                                           ____                        ||\n";
+        cout << " ||                  ________________________/ O  \\___/                   ||\n";
+        cout << " ||                 <_____________________________/   \\                   ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||             1. W,A,S,D to change direction of the Snake.              ||\n";
+        cout << " ||             2. Eat the Fruit to Make the Snake Grow. With             ||\n";
+        cout << " ||                each fruit 10 Points will be Added to the              ||\n";
+        cout << " ||                score.                                                 ||\n";
+        cout << " ||             3. If Snake eats itself, game will be over.               ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                  PRESS ANY KEY TO RETURN TO MENU                      ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ===========================================================================\n";
+    }
