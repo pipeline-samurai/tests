@@ -58,3 +58,56 @@ public:
         Music = true;
     }
 };
+
+class Display
+{
+public:
+    void SetColorBlue()
+    {
+        system("Color 01");
+    }
+    void SetColorGreen()
+    {
+        system("Color 02");
+    }
+    void SetColorRed()
+    {
+        system("Color 04");
+    }
+    void SetColorYellow()
+    {
+        system("Color 06");
+    }
+    void SetColorWhite()
+    {
+        system("Color 07");
+    }
+    void SetColorPurple()
+    {
+        system("Color 05");
+    }
+    void DisplayMainMenu()
+    {
+        cout << " ===========================================================================\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                           *SNAKE GAME*                                ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                      __    __    __    __                             ||\n";
+        cout << " ||                     /  \\  /  \\  /  \\  /  \\                            ||\n";
+        cout << " ||____________________/  __\\/  __\\/  __\\/  __\\___________________________||\n";
+        cout << " ||___________________/  /__/  /__/  /__/  /______________________________||\n";
+        cout << " ||                   | / \\   / \\   / \\   / \\  \\____                      ||\n";
+        cout << " ||                   |/   \\_/   \\_/   \\_/   \\    o \\                     ||\n";
+        cout << " ||                                           \\_____/--<                  ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                              *Menu*                                   ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ||                         -> 1. Play Game                               ||\n";
+        cout << " ||                         -> 2. High Score                              ||\n";
+        cout << " ||                         -> 3. Instructions                            ||\n";
+        cout << " ||                         -> 4. Credits                                 ||\n";
+        cout << " ||                         -> 5. Settings                                ||\n";
+        cout << " ||                         -> 6. Exit                                    ||\n";
+        cout << " ||                                                                       ||\n";
+        cout << " ===========================================================================\n";
+    }
