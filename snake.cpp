@@ -29,3 +29,32 @@ class MusicPlayer
 	private:
 		    bool Music;
 
+public:
+    bool GetMusic() const
+    {
+        return Music;
+    }
+    void SetMusic(bool M)
+    {
+        Music = M;
+    }
+    void MuteSound()
+    {
+        sndPlaySound("Mute.wav", SND_ASYNC | SND_NODEFAULT | SND_LOOP);
+    }
+    void PlayMusic()
+    {
+        if (Music == true)
+        {
+            sndPlaySound("Music.wav", SND_ASYNC | SND_NODEFAULT | SND_LOOP);
+        }
+        else
+        {
+            MuteSound();
+        }
+    }
+    MusicPlayer()
+    {
+        Music = true;
+    }
+};
