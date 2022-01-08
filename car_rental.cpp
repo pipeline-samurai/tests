@@ -437,3 +437,24 @@ int rate(int hour, int j)
 	total = total_24 + total_12 + total_1;
 	return total;
 }
+
+void customerData()
+{
+	ifstream ifs;
+	ifs.open("Customer.txt");
+	int custNum = 0;
+	
+	while (!ifs.eof())
+	{
+		ifs >> cust[custNum].id;
+		ifs.ignore();
+		ifs.getline(cust[custNum].name,100,';');
+		ifs.getline(cust[custNum].phone,15,';');
+		ifs.getline(cust[custNum].ic,15,';');
+		ifs.getline(cust[custNum].address,1500);
+		custNum++;
+	}
+	
+	ifs.close();
+}
+
