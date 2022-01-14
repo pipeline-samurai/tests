@@ -13,6 +13,7 @@ white = (255,255,255)
 #
 #
 #
+#
 screen = pygame.display.set_mode(size)
 
 while 1:
