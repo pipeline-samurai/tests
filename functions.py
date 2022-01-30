@@ -19,3 +19,5 @@ print(msg, type(msg))           # 20.7 <class 'str'>
 
 # ValueError (A run time error)
 print(int('hello'))
+
+#it was a pleasure writing this
