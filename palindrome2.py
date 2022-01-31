@@ -1,4 +1,4 @@
-class Solution:
+class Solution():
     def is_palindrome(self, user_input):
 
         user_input = input("Welcome to my palindrome")
@@ -14,3 +14,4 @@ class Solution:
                 return False
 
         return True
+
