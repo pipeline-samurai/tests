@@ -1,6 +1,6 @@
 # lists example 3
 
-my_list = [1, 'mostafa', 4]
+my_list = [1, 'alex', 4]
 
 another_list = [99, 11.5]
 
