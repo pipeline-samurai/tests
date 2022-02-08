@@ -14,7 +14,7 @@ print()
 print(my_list)  # [1, 2, 3, 4]
 
 # list of different data types!
-my_list = [1, 'mostafa', 4.5]
+my_list = [1, 'alex', 4.5]
 
 # IndexError: list assignment index out of range
 #my_list[3] = 0
