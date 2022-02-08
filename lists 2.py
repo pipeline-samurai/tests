@@ -1,4 +1,4 @@
-# list example 2
+# In this scenario we give arithmetic commands to elements in a list
 
 numbers = [10, 2, 7, 5, 3]
 
