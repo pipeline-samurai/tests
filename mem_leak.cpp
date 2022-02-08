@@ -1,4 +1,4 @@
-// Program with memory leak
+// This program demonstrates a memory leak
 #include <bits/stdc++.h>
 using namespace std;
  
