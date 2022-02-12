@@ -1,3 +1,5 @@
+// This program prints in stOut the ID type of a variable
+
 #include<iostream>
 #include<typeinfo>
 using namespace std ;
