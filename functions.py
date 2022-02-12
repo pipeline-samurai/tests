@@ -1,3 +1,5 @@
+#This program prints the nature of certain variables 
+
 msg_str = '10'
 xint = int(msg_str)
 xflo = float(msg_str)
@@ -20,4 +22,4 @@ print(msg, type(msg))           # 20.7 <class 'str'>
 # ValueError (A run time error)
 print(int('hello'))
 
-#it was a pleasure writing this
+
