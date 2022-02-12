@@ -1,3 +1,5 @@
+// This program rolls a random number. We demonstrate the specific variable names below.
+
 #include<iostream>
 using namespace std ;
 int main()
