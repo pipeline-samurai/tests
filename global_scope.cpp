@@ -1,3 +1,5 @@
+// this program shows the difference between local and global variables
+
 #include<iostream>
 using namespace std ;
 int x, y; 
