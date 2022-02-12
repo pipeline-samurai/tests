@@ -1,3 +1,5 @@
+// This program is calculating the area of a circle given the radius
+
 #include<iostream>
 using namespace std ;
 const double PI = 3.14 ;
