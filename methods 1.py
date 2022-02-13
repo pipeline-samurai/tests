@@ -1,4 +1,5 @@
-
+# This program creates an Employee class and we use the three class methods after we initialize a variable with the 
+# class call 
 
 class Employee:
     name = None
