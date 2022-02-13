@@ -1,3 +1,4 @@
+# This program demostrates logic statements such as if used to build the logic of a calculator
 print("Welcome to my personal calculator\nPlease input two numbers and an operator:")
 
 user_input1 = int(input("First number:\n"))
