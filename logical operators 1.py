@@ -1,4 +1,4 @@
-
+# This program expresses logical examples
 # You can use () to force priority
 age, salary = 30, 7000
 
