@@ -1,4 +1,4 @@
-
+# This log shows my open ports. I got this using an input output cmd command
   TCP    0.0.0.0:135            0.0.0.0:0              [7mLISTENING[0m       1288
   TCP    0.0.0.0:445            0.0.0.0:0              [7mLISTENING[0m       4
   TCP    0.0.0.0:5040           0.0.0.0:0              [7mLISTENING[0m       5216
