@@ -3,7 +3,7 @@
 echo "Do you want to hear a story?"
 read i
 
-if [ $i is "yes" ];
+if [ $i -eq "yes" ];
 then
 echo "Awesome, I am learning bash scripting in an active manner"
 sleep 1
