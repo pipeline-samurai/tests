@@ -3,14 +3,14 @@
 echo "Do you want to hear a story?"
 read i
 
-if [ $i -eq "yes" ];
+if [ $i == "yes" ];
 then
 echo "Awesome, I am learning bash scripting in an active manner"
-sleep 1
+sleep 2
 echo "So here I am writing some scripts from my head trying to improve"
-sleep 1
+sleep 2
 echo "And I would like to showcase my skills by helping you"
-sleep 1
+sleep 2
 
 else
 echo "I totally understand, have a lovely day!"
