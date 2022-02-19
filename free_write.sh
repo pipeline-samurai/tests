@@ -11,6 +11,7 @@ echo "So here I am writing some scripts from my head trying to improve"
 sleep 1
 echo "And I would like to showcase my skills by helping you"
 sleep 1
-elif
+
+else
 echo "I totally understand, have a lovely day!"
 fi
