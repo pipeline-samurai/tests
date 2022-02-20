@@ -14,7 +14,7 @@ sleep 2
 echo "Let's help you transform seconds into minutes. Pass me a number of seconds:"
 
 read seconds
-minutes = seconds * 60
+minutes = $seconds * 60
 
 echo "Your total number of minutes is : $minutes"
 
