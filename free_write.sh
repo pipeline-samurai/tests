@@ -16,7 +16,7 @@ echo "Let's help you transform seconds into minutes. Pass me a number of seconds
 read seconds
 minutes = seconds * 60
 
-echo "Your total number of minutes is :" $minutes
+echo "Your total number of minutes is : $minutes"
 
 
 
