@@ -14,9 +14,9 @@ sleep 2
 echo "Let's help you transform seconds into minutes. Pass me a number of seconds:"
 
 read seconds
-#let minutes="$seconds/60"
+let minutes="$seconds/60"|bc 
 #echo "scale=2; $seconds/60"|bc
-minutes=printf "%.2f\n" 'echo $n1/$n2|bc -l'
+
 
 echo "Your total number of minutes is : $minutes"
 
