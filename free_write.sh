@@ -6,11 +6,11 @@ read i
 if [ $i == "yes" ];
 then
 echo "Awesome, I am learning bash scripting in an active manner"
-sleep 2
+#sleep 2
 echo "So here I am writing some scripts from my head trying to improve"
-sleep 2
+#sleep 2
 echo "And I would like to showcase my skills by helping you"
-sleep 2
+#sleep 2
 echo "Let's help you transform seconds into minutes. Pass me a number of seconds:"
 
 read seconds
