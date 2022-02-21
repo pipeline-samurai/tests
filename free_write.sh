@@ -1,6 +1,7 @@
 #!/bin/bash
-
-echo "Do you want to hear a story?"
+#!bin/bash
+echo -e "Hello, welcome to my first personalized script.Please choose from the following commands"
+echo -e "1.Minutes-from-seconds transformer \n2.Tip Calculator \n3.Motivation quote"
 read input_start
 
 if [ $input_start == "yes" ];
@@ -25,7 +26,7 @@ read input_continue
 
 if [ $input_continue == "yes" ];
 then
-
+echo "Awesome, let me help you calculate your tip"
 
 else
 echo "I totally understand, have a lovely day!"
