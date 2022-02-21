@@ -1,9 +1,9 @@
 #!/bin/bash
 
 echo "Do you want to hear a story?"
-read i
+read input_start
 
-if [ $i == "yes" ];
+if [ $input_start == "yes" ];
 then
 echo "Awesome, I am learning bash scripting in an active manner"
 #sleep 2
@@ -16,11 +16,15 @@ echo "Let's help you transform seconds into minutes. Pass me a number of seconds
 read seconds
 #let minutes="$seconds/60" 
 #echo "scale=2; $seconds/60"|bc
-minutes=awk "BEGIN {print $seconds/60}"
+minutes=$(awk "BEGIN {print $seconds/60}")
 
 echo "Your total number of minutes is : $minutes"
+#sleep 2
+echo "Is there something else I can help you with?"
+read input_continue
 
-
+if [ $input_continue == "yes" ];
+then
 
 
 else
