@@ -1,6 +1,8 @@
 #!/bin/bash
-echo -e "Hello, welcome to my first personalized script.Please choose from the following commands"
-echo -e "1.Minutes-from-seconds transformer \n2.Tip Calculator \n3.Motivation quote"
+echo "Hello, welcome to my first personalized script.Please choose from the following commands"
+echo "1.Minutes-from-seconds transformer
+2.Tip Calculator
+3.Motivation quote"
 read input_start
 
 if [ $input_start -eq 1 ];
