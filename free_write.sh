@@ -1,10 +1,9 @@
 #!/bin/bash
-#!bin/bash
 echo -e "Hello, welcome to my first personalized script.Please choose from the following commands"
 echo -e "1.Minutes-from-seconds transformer \n2.Tip Calculator \n3.Motivation quote"
 read input_start
 
-if [ $input_start == "yes" ];
+if [ $input_start -eq 1 ];
 then
 echo "Awesome, I am learning bash scripting in an active manner"
 #sleep 2
@@ -13,7 +12,6 @@ echo "So here I am writing some scripts from my head trying to improve"
 echo "And I would like to showcase my skills by helping you"
 #sleep 2
 echo "Let's help you transform seconds into minutes. Pass me a number of seconds:"
-
 read seconds
 #let minutes="$seconds/60" 
 #echo "scale=2; $seconds/60"|bc
