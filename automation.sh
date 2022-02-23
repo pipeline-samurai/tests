@@ -1,6 +1,7 @@
 #!/bin/bash
 
 random=$(echo $[ $RANDOM % 3 + 1 ])
+echo "Hello, I will start pushing $random times to Github"
 valid=true
 
 while [ $valid ]
