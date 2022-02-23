@@ -12,3 +12,4 @@ printf "\n"
  16:25:13 up 3 days, 20:27,  0 users,  load average: 0.00, 0.00, 0.00
  16:43:32 up 3 days, 20:46,  0 users,  load average: 0.00, 0.00, 0.00
  16:43:38 up 3 days, 20:46,  0 users,  load average: 0.08, 0.02, 0.01
+ 16:43:45 up 3 days, 20:46,  0 users,  load average: 0.07, 0.02, 0.00
