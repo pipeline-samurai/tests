@@ -1,11 +1,23 @@
 #!/bin/bash
 
-random=$(echo $[ $RANDOM % 12 + 4 ])
+random=$(echo $[ $RANDOM % 3 + 1 ])
 valid=true
 
 while [ $valid ]
 do
 echo $count
+
+pwd=/mnt/d/Github/Projects/tests
+echo "Preparing to write to Github...
+Setting pwd to $pwd."
+
+cd $pwd
+
+uptime | tee -a simple_login.sh
+
+git add .
+git commit -m "automation process"
+git push
 
 if [ $count -eq $random ];
 then break
