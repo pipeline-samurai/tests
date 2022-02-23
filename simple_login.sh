@@ -11,3 +11,4 @@ else
 echo "invalid user"
 fi
  14:22:10 up 3 days, 18:24,  0 users,  load average: 0.05, 0.01, 0.00
+ 14:22:12 up 3 days, 18:24,  0 users,  load average: 0.05, 0.01, 0.00
