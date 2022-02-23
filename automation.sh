@@ -16,9 +16,9 @@ pwd=/mnt/d/Github/Projects/tests
 
 echo
 "Preparing to write to Github...
-Setting pwd to $pwd."
+Setting pwd to $pwd"
 sleep 2
-cd $pwd
+#cd $pwd
 echo
 
 uptime | tee -a counter.sh
@@ -28,7 +28,7 @@ echo
 git add .
 git commit -m "automation process"
 git push
-
+echo
 if [ $count -eq $random ];
 then break
 fi
