@@ -1,6 +1,6 @@
 #!/bin/bash
 
-random=$(echo $[ $RANDOM % 3 + 1 ])
+random=$(echo $[ $RANDOM % 7 + 6 ])
 echo
 echo "Hello, I will start pushing $random times to Github"
 sleep 2
@@ -21,7 +21,7 @@ sleep 2
 #cd $pwd
 echo
 
-uptime | tee -a counter.sh
+uptime | tee -a function.py
 sleep 2
 
 echo
