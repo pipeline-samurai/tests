@@ -1,6 +1,6 @@
 #!/bin/bash
 
-random=$(echo $[ $RANDOM % 10 + 6 ])
+random=$(echo $[ $RANDOM % 10 + 9 ])
 echo
 echo "Hello, I will start pushing $random times to Github"
 sleep 2
