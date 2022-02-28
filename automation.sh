@@ -21,7 +21,7 @@ sleep 2
 #cd $pwd
 echo
 
-uptime | tee -a function.py
+uptime | tee -a static_test.cpp
 sleep 2
 
 echo
