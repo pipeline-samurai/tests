@@ -21,7 +21,7 @@ sleep 2
 #cd $pwd
 echo
 
-uptime | tee -a static_test.cpp
+uptime | tee -a simple_login.sh
 sleep 2
 
 echo
