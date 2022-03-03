@@ -11,3 +11,4 @@ echo $subStr
  21:07:59 up 12 days,  1:10,  0 users,  load average: 0.04, 0.01, 0.00
  21:08:06 up 12 days,  1:10,  0 users,  load average: 0.04, 0.01, 0.00
  21:08:12 up 12 days,  1:10,  0 users,  load average: 0.20, 0.05, 0.01
+ 21:08:18 up 12 days,  1:10,  0 users,  load average: 0.17, 0.04, 0.01
