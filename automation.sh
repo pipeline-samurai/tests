@@ -21,7 +21,7 @@ sleep 2
 #cd $pwd
 echo
 
-uptime | tee -a simple_login.sh
+uptime | tee -a substring.sh
 sleep 2
 
 echo
