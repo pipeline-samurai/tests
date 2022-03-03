@@ -9,3 +9,4 @@ echo $subStr
  21:07:46 up 12 days,  1:10,  0 users,  load average: 0.06, 0.01, 0.00
  21:07:53 up 12 days,  1:10,  0 users,  load average: 0.05, 0.01, 0.00
  21:07:59 up 12 days,  1:10,  0 users,  load average: 0.04, 0.01, 0.00
+ 21:08:06 up 12 days,  1:10,  0 users,  load average: 0.04, 0.01, 0.00
