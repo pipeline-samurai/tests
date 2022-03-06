@@ -21,7 +21,7 @@ sleep 2
 #cd $pwd
 echo
 
-uptime | tee -a substring.sh
+uptime | tee -a typeid.cpp
 sleep 2
 
 echo

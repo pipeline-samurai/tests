@@ -11,3 +11,4 @@ int main()
     cout << typeid(a).name() << " " << typeid(b).name();
     return 0 ;
 }
+ 20:25:52 up 15 days, 28 min,  0 users,  load average: 0.00, 0.00, 0.00
