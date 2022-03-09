@@ -13,3 +13,4 @@ int main()
     cout << roll_number << " " << rollNumber << " " << PI ; 
     return 0 ;
 }
+ 11:41:48 up 1 min,  0 users,  load average: 0.00, 0.00, 0.00

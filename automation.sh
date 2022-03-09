@@ -21,7 +21,7 @@ sleep 2
 #cd $pwd
 echo
 
-uptime | tee -a typeid.cpp
+uptime | tee -a dice.cpp
 sleep 2
 
 echo
