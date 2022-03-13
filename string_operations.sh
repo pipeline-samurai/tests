@@ -14,3 +14,4 @@ echo $string3
  21:43:32 up 4 days, 10:02,  0 users,  load average: 0.02, 0.01, 0.00
  21:43:38 up 4 days, 10:02,  0 users,  load average: 0.01, 0.01, 0.00
  21:43:44 up 4 days, 10:02,  0 users,  load average: 0.01, 0.01, 0.00
+ 21:43:50 up 4 days, 10:03,  0 users,  load average: 0.01, 0.01, 0.00
