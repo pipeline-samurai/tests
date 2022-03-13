@@ -21,7 +21,7 @@ sleep 2
 #cd $pwd
 echo
 
-uptime | tee -a dice.cpp
+uptime | tee -a string_operations.sh
 sleep 2
 
 echo
