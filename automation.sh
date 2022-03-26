@@ -1,6 +1,6 @@
 #!/bin/bash
 
-random=$(echo $[ $RANDOM % 10 + 9 ])
+random=$(echo $[ $RANDOM % 10 + 1 ])
 echo
 echo "Hello, I will start pushing $random times to Github"
 sleep 2
@@ -12,7 +12,7 @@ do
 echo
 echo $count
 
-pwd=/mnt/d/Github/Projects/tests
+pwd= /mnt/d/Github/Projects/tests
 
 echo
 "Preparing to write to Github...
