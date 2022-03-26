@@ -12,11 +12,10 @@ do
 echo
 echo $count
 
-pwd= /mnt/d/Github/Projects/tests
+pwd=/mnt/d/Github/Projects/tests
 
 echo
-"Preparing to write to Github...
-Setting pwd to $pwd"
+"Preparing to write to Github..."
 sleep 2
 cd $pwd
 echo
