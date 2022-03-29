@@ -11,7 +11,7 @@ while [ $valid ]
 do
 echo
 echo $count
-
+echo
 pwd=/mnt/d/Github/Projects/tests
 
 echo "Preparing to write to Github..."
