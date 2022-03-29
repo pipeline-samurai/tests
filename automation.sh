@@ -19,7 +19,7 @@ sleep 2
 cd $pwd
 echo
 
-uptime | tee -a string_operations.sh
+uptime | tee -a calculator.py
 sleep 2
 
 echo
