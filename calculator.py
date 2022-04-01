@@ -41,3 +41,4 @@ if user_input3 == math_raise_to_power:
  22:50:04 up 2 days, 23:40,  0 users,  load average: 0.07, 0.02, 0.00
  22:08:20 up 0 min,  0 users,  load average: 0.00, 0.00, 0.00
  22:08:28 up 0 min,  0 users,  load average: 0.00, 0.00, 0.00
+ 22:08:34 up 0 min,  0 users,  load average: 0.00, 0.00, 0.00
