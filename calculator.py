@@ -86,3 +86,4 @@ if user_input3 == math_raise_to_power:
  21:24:59 up 4 days,  8:15,  0 users,  load average: 0.00, 0.00, 0.00
  21:25:06 up 4 days,  8:15,  0 users,  load average: 0.00, 0.00, 0.00
  21:25:12 up 4 days,  8:15,  0 users,  load average: 0.00, 0.00, 0.00
+ 21:25:18 up 4 days,  8:15,  0 users,  load average: 0.00, 0.00, 0.00
