@@ -240,3 +240,4 @@ if user_input3 == math_raise_to_power:
  13:00:19 up 3 min,  0 users,  load average: 0.00, 0.00, 0.00
  13:00:25 up 3 min,  0 users,  load average: 0.00, 0.00, 0.00
  13:00:31 up 3 min,  0 users,  load average: 0.08, 0.02, 0.01
+ 13:00:37 up 4 min,  0 users,  load average: 0.07, 0.02, 0.00
