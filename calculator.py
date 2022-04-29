@@ -255,3 +255,4 @@ if user_input3 == math_raise_to_power:
  01:02:19 up  9:47,  0 users,  load average: 0.00, 0.00, 0.00
  01:02:26 up  9:47,  0 users,  load average: 0.00, 0.00, 0.00
  01:04:49 up  9:49,  0 users,  load average: 0.00, 0.00, 0.00
+ 01:04:55 up  9:49,  0 users,  load average: 0.00, 0.00, 0.00
