@@ -599,3 +599,4 @@ if user_input3 == math_raise_to_power:
  19:55:19 up 0 min,  0 users,  load average: 0.08, 0.02, 0.01
  19:55:26 up 0 min,  0 users,  load average: 0.07, 0.02, 0.00
  19:55:32 up 1 min,  0 users,  load average: 0.06, 0.02, 0.00
+ 19:55:46 up 1 min,  0 users,  load average: 0.05, 0.01, 0.00
