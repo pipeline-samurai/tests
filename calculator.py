@@ -777,3 +777,4 @@ if user_input3 == math_raise_to_power:
  12:44:41 up 5 days, 11:10,  0 users,  load average: 0.00, 0.00, 0.00
  12:44:48 up 5 days, 11:10,  0 users,  load average: 0.00, 0.00, 0.00
  12:44:54 up 5 days, 11:10,  0 users,  load average: 0.00, 0.00, 0.00
+ 12:45:00 up 5 days, 11:10,  0 users,  load average: 0.00, 0.00, 0.00
