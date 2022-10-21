@@ -803,3 +803,4 @@ if user_input3 == math_raise_to_power:
  00:58:36 up 2 days,  6:11,  0 users,  load average: 0.00, 0.00, 0.00
  00:58:42 up 2 days,  6:11,  0 users,  load average: 0.00, 0.00, 0.00
  00:58:48 up 2 days,  6:11,  0 users,  load average: 0.00, 0.00, 0.00
+ 00:58:55 up 2 days,  6:11,  0 users,  load average: 0.00, 0.00, 0.00
