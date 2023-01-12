@@ -14,3 +14,4 @@
  13:17:08 up 2 days, 32 min,  0 users,  load average: 0.00, 0.00, 0.00
  13:17:15 up 2 days, 32 min,  0 users,  load average: 0.00, 0.00, 0.00
  13:17:22 up 2 days, 32 min,  0 users,  load average: 0.00, 0.00, 0.00
+ 13:17:28 up 2 days, 32 min,  0 users,  load average: 0.08, 0.02, 0.01
