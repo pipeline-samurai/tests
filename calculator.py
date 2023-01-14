@@ -33,3 +33,4 @@
  23:00:47 up 3 days, 10:15,  0 users,  load average: 0.00, 0.00, 0.00
  23:00:53 up 3 days, 10:15,  0 users,  load average: 0.00, 0.00, 0.00
  12:23:00 up 3 days, 23:38,  0 users,  load average: 0.00, 0.00, 0.00
+ 12:23:07 up 3 days, 23:38,  0 users,  load average: 0.08, 0.02, 0.01
