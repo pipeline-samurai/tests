@@ -50,3 +50,4 @@ int main()
  11:24:30 up  7:45,  0 users,  load average: 0.00, 0.00, 0.00
  11:24:36 up  7:45,  0 users,  load average: 0.00, 0.00, 0.00
  11:24:42 up  7:45,  0 users,  load average: 0.00, 0.00, 0.00
+ 11:24:48 up  7:45,  0 users,  load average: 0.08, 0.02, 0.01
