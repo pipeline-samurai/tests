@@ -19,7 +19,7 @@ sleep 2
 cd $pwd
 echo
 
-uptime | tee -a calculator.py
+uptime | tee -a dice.cpp
 sleep 2
 
 echo
