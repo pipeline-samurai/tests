@@ -133,3 +133,4 @@ int main()
  18:40:28 up 1 day,  8:39,  0 users,  load average: 0.04, 0.01, 0.00
  12:48:25 up 1 day, 10:55,  0 users,  load average: 0.00, 0.00, 0.00
  12:48:32 up 1 day, 10:55,  0 users,  load average: 0.00, 0.00, 0.00
+ 12:48:38 up 1 day, 10:55,  0 users,  load average: 0.08, 0.02, 0.01
