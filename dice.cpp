@@ -170,8 +170,19 @@ int main()
  12:13:40 up 2 days,  2:58,  0 users,  load average: 0.00, 0.00, 0.00
  00:17:06 up 0 min,  0 users,  load average: 0.00, 0.00, 0.00
  00:17:13 up 0 min,  0 users,  load average: 0.00, 0.00, 0.00
+<<<<<<< HEAD
  00:08:08 up  2:22,  0 users,  load average: 0.00, 0.00, 0.00
  00:08:15 up  2:22,  0 users,  load average: 0.00, 0.00, 0.00
  00:08:32 up  2:22,  0 users,  load average: 0.07, 0.02, 0.00
  00:08:40 up  2:22,  0 users,  load average: 0.06, 0.02, 0.00
  00:08:47 up  2:22,  0 users,  load average: 0.06, 0.01, 0.00
+=======
+ 10:58:13 up 0 min,  0 users,  load average: 0.05, 0.01, 0.00
+ 10:58:20 up 0 min,  0 users,  load average: 0.04, 0.01, 0.00
+ 10:58:28 up 0 min,  0 users,  load average: 0.04, 0.01, 0.00
+ 10:58:35 up 0 min,  0 users,  load average: 0.11, 0.03, 0.01
+ 10:58:42 up 1 min,  0 users,  load average: 0.10, 0.03, 0.01
+ 10:58:49 up 1 min,  0 users,  load average: 0.17, 0.04, 0.01
+ 10:58:57 up 1 min,  0 users,  load average: 0.14, 0.04, 0.01
+ 10:59:04 up 1 min,  0 users,  load average: 0.13, 0.04, 0.01
+>>>>>>> cf0f1ad9f03bdae8d22110fb8b38d7313f76ba81
