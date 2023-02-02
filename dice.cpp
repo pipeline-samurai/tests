@@ -208,3 +208,4 @@ int main()
  01:31:00 up  8:07,  0 users,  load average: 0.07, 0.02, 0.00
  01:33:54 up  8:10,  0 users,  load average: 0.07, 0.02, 0.00
  01:34:02 up  8:10,  0 users,  load average: 0.14, 0.03, 0.01
+ 01:34:10 up  8:10,  0 users,  load average: 0.20, 0.05, 0.01
