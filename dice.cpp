@@ -218,3 +218,4 @@ int main()
  12:26:17 up  8:13,  0 users,  load average: 0.03, 0.05, 0.02
  12:26:24 up  8:13,  0 users,  load average: 0.03, 0.05, 0.02
  12:26:31 up  8:13,  0 users,  load average: 0.03, 0.05, 0.01
+ 12:26:38 up  8:13,  0 users,  load average: 0.10, 0.07, 0.02
