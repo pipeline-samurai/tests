@@ -244,6 +244,7 @@ int main()
  10:36:14 up  2:06,  0 users,  load average: 0.07, 0.02, 0.00
  10:36:20 up  2:06,  0 users,  load average: 0.06, 0.02, 0.00
  10:36:27 up  2:07,  0 users,  load average: 0.14, 0.03, 0.01
+<<<<<<< HEAD
  14:15:44 up 17:02,  0 users,  load average: 0.00, 0.00, 0.00
  14:15:50 up 17:02,  0 users,  load average: 0.00, 0.00, 0.00
  14:15:56 up 17:02,  0 users,  load average: 0.00, 0.00, 0.00
@@ -263,3 +264,24 @@ int main()
  14:51:02 up 22 min,  0 users,  load average: 0.13, 0.03, 0.01
  14:51:17 up 22 min,  0 users,  load average: 0.10, 0.03, 0.01
  14:51:24 up 23 min,  0 users,  load average: 0.10, 0.03, 0.01
+=======
+ 11:24:05 up 0 min,  0 users,  load average: 0.07, 0.02, 0.00
+ 11:24:12 up 0 min,  0 users,  load average: 0.06, 0.01, 0.00
+ 11:24:53 up 1 min,  0 users,  load average: 0.03, 0.01, 0.00
+ 11:25:00 up 1 min,  0 users,  load average: 0.11, 0.03, 0.01
+ 11:25:08 up 1 min,  0 users,  load average: 0.09, 0.03, 0.00
+ 11:25:14 up 1 min,  0 users,  load average: 0.08, 0.03, 0.00
+ 11:25:21 up 1 min,  0 users,  load average: 0.07, 0.02, 0.00
+ 11:25:28 up 1 min,  0 users,  load average: 0.06, 0.02, 0.00
+ 11:25:34 up 1 min,  0 users,  load average: 0.06, 0.02, 0.00
+ 11:25:41 up 1 min,  0 users,  load average: 0.05, 0.02, 0.00
+ 11:25:48 up 2 min,  0 users,  load average: 0.04, 0.02, 0.00
+ 22:46:12 up 0 min,  0 users,  load average: 0.00, 0.00, 0.00
+ 22:46:19 up 0 min,  0 users,  load average: 0.08, 0.02, 0.01
+ 22:46:26 up 0 min,  0 users,  load average: 0.07, 0.02, 0.00
+ 22:46:32 up 0 min,  0 users,  load average: 0.06, 0.02, 0.00
+ 22:46:39 up 0 min,  0 users,  load average: 0.14, 0.03, 0.01
+ 22:46:46 up 1 min,  0 users,  load average: 0.12, 0.03, 0.01
+ 22:46:53 up 1 min,  0 users,  load average: 0.11, 0.03, 0.01
+ 22:46:59 up 1 min,  0 users,  load average: 0.10, 0.03, 0.01
+>>>>>>> fe7956c38f40b681858381be33fd6950931e484c
